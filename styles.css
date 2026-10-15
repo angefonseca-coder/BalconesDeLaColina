@@ -6,5 +6,8 @@
 
 .price-block{display:flex;align-items:center;justify-content:space-between;gap:18px;max-width:430px;margin:0 0 24px;padding:17px 19px;background:#f2efe6;border-left:3px solid var(--clay)}.price-block>span{font-size:9px;letter-spacing:.14em;color:var(--muted)}.price-block strong{font:500 25px var(--serif);white-space:nowrap;color:var(--green)}.price-block small{font:10px var(--sans);letter-spacing:.08em;color:var(--muted)}.visit-price{font-size:13px;color:#d8e0d8;margin:0 0 17px}.visit-price strong{font:20px var(--serif);color:#fff}
 .eyebrow b.lowercase-name{text-transform:none;font-weight:500;letter-spacing:normal}
+.gallery-grid{height:auto;grid-auto-rows:250px}.gallery-card{height:250px}.gallery-wide{grid-column:span 2;height:300px}.amenities-heading{justify-content:flex-start;margin-bottom:20px}.amenities-heading h2{margin:0}.amenities-summary{max-width:640px;color:#69756a;font-size:16px;line-height:1.8;margin:0}
+@media(max-width:800px){.gallery-grid{grid-template-columns:1fr 1fr;grid-auto-rows:200px}.gallery-card{height:200px}.gallery-wide{grid-column:span 2;height:260px}.amenities-summary{font-size:14px}}
+@media(max-width:440px){.gallery-grid{grid-template-columns:1fr 1fr;grid-auto-rows:160px}.gallery-card{height:160px}.gallery-wide{height:220px}}
 
 
