@@ -5,4 +5,6 @@
 .email-link{display:block;width:max-content;color:#e0d6c9;font-size:12px;margin-top:16px;border-bottom:1px solid #809187;padding-bottom:3px}.email-link:hover{color:white}
 
 .price-block{display:flex;align-items:center;justify-content:space-between;gap:18px;max-width:430px;margin:0 0 24px;padding:17px 19px;background:#f2efe6;border-left:3px solid var(--clay)}.price-block>span{font-size:9px;letter-spacing:.14em;color:var(--muted)}.price-block strong{font:500 25px var(--serif);white-space:nowrap;color:var(--green)}.price-block small{font:10px var(--sans);letter-spacing:.08em;color:var(--muted)}.visit-price{font-size:13px;color:#d8e0d8;margin:0 0 17px}.visit-price strong{font:20px var(--serif);color:#fff}
+.eyebrow b.lowercase-name{text-transform:none;font-weight:500;letter-spacing:normal}
+
 
