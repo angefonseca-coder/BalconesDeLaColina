@@ -13,4 +13,4 @@ Abre `index.html` en un navegador.
 - Conjunto cerrado con dos porterías, zonas comunes y gimnasio.
 - Parqueadero asignado por la administración.
 
-El precio y los datos de contacto están pendientes de confirmación. Las fotografías están en `public/images/`; la imagen del atardecer se usa como portada.
+El precio y los datos de contacto están pendientes de confirmación. La galería contiene las 20 fotografías actuales entregadas para la publicación; `Atardecer.jpeg` se usa como portada.
