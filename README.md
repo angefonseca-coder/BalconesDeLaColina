@@ -1,16 +1,16 @@
-# balcones de la colina · Apartamento en venta
+# Balcones de la Colina · Apartamento en venta
 
-Landing page responsive en español para presentar el apartamento de 62 m² en balcones de la colina, Bogotá.
+Página informativa en español para promocionar un apartamento en venta. Sitio estático, responsive y sin dependencias de instalación.
 
 ## Ver localmente
 
-Abre `index.html` en un navegador. No requiere instalación ni compilación.
+Abre `index.html` en un navegador.
 
-## Personalización pendiente
+## Datos incluidos
 
-- Reemplazar el enlace `mailto:` del botón por el WhatsApp o canal de contacto real.
-- Añadir el precio cuando se defina.
-- Confirmar que las amenidades y la segunda portería se describan con los nombres oficiales del conjunto.
+- 2 alcobas y 2 baños.
+- Sala, comedor, cocina tipo americano y espacio de lavandería.
+- Conjunto cerrado con dos porterías, zonas comunes y gimnasio.
+- Parqueadero asignado por la administración.
 
-Las fotografías proporcionadas están en `public/images/`.
-
+El precio y los datos de contacto están pendientes de confirmación. Las fotografías están en `public/images/`; la imagen del atardecer se usa como portada.
